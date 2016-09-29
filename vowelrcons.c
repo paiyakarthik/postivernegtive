@@ -7,37 +7,37 @@ scanf("%c",&in);
 switch(in)
 {
 case 'a':
-printf("\nvowel");
+printf("vowel");
 break;
 case 'e':
-printf("\nvowel");
+printf("vowel");
 break;
 case 'i':
-printf("\nvowel");
+printf("vowel");
 break;
 case 'o':
-printf("\nvowel");
+printf("vowel");
 break;
 case 'u':
-printf("\nvowel");
+printf("vowel");
 break;
 case 'A':
-printf("\nvowel");
+printf("vowel");
 break;
 case 'E':
-printf("\nvowel");
+printf("vowel");
 break;
 case 'I':
 printf("\nvowel");
 break;
 case 'O':
-printf("\nvowel");
+printf("vowel");
 break;
 case 'U':
-printf("\nvowel");
+printf("vowel");
 break;
 default:
-printf("\nConsonant");
+printf("Consonant");
 }
 return 0;
 }
